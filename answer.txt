@@ -1,3 +1,4 @@
+twitter_1,NOT_SARCASM
 twitter_2,NOT_SARCASM
 twitter_3,NOT_SARCASM
 twitter_4,NOT_SARCASM
