@@ -29,7 +29,7 @@ The text classification file (test datset) differs from the training dataset onl
 The size of training dataset is 5000 and the size of the test dataset is 1800.
 
 ### Output
-The output of the project is a anwser.txt document, which includes both id of test sample and a label of either `SARCASM` or `NOT_SARCASM` predicted by the model.
+The output of the project is an anwser.txt document, which includes both id of test sample and a label of either `SARCASM` or `NOT_SARCASM` predicted by the model.
 
 ## Install
 
