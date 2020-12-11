@@ -26,7 +26,7 @@ Each line of the training dataset includes the following fileds:
 
 The testing dataset(text.jsonl) differs from the training dataset only in that the each line of the dataset lacks the ***label***.
 
-The size of training dataset is 5000 and the size of the test dataset is 1800.
+The size of training dataset is 5000 and the size of the testing dataset is 1800.
 
 ### Output
 The output of the project is an anwser.txt document, each line of which includes both id of test sample and a label of either `SARCASM` or `NOT_SARCASM` predicted by the model.
