@@ -77,7 +77,7 @@ R_context: Reverse Context
 
 ## Contributing
 
-### Conntributors
+### Contributors
 Team Name: GFZ
 
 Team Member: <br />
@@ -85,5 +85,5 @@ Team Member: <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ryan Fraser - rfraser3 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yiming Gu - yimingg7 <br />
 
-## License/Ciatation
+## License/Citation
 Tutorial: [Fine-Tuning BERT for Spam Classification](https://colab.research.google.com/github/prateekjoshi565/Fine-Tuning-BERT/blob/master/Fine_Tuning_BERT_for_Spam_Classification.ipynb#scrollTo=k1USGTntS3TS)
