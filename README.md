@@ -5,7 +5,7 @@
 - [Background](#background)
 - [Install](#install)
 - [Usage](#usage)
-- [PresentationLink](#Presentation)
+- [Presentation](#Presentation)
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
