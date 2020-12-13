@@ -58,19 +58,20 @@ https://mediaspace.illinois.edu/media/1_fjm9tq9y
 ## Results
 
 The following table records the best performance achieved (highest F1 score) by using each model:
+The score marked in bold are passing the baseline scores.
 
 | Model| Precision | Recall| F1 |
 |-------|-------|-------|-------|
 | ALBERT  | 0.65814 |0.77222 | 0.71063 |
 | ALBERT V2  | 0.64377 |0.56222 | 0.60024 |
-| BERT  | 0.62681 | 0.86778 | 0.72787 |
+| BERT  | 0.62681 | 0.86778 | **0.72787** |
 | BERT(RSUP) | 0.64717 | 0.76222 | 0.7 |
 | BERT(R_context) | 0.66042 | 0.70444 | 0.68172 |
-| RoBERTa  | 0.65887 | 0.86888 | 0.74053 |
+| RoBERTa  | 0.65887 | 0.86888 | **0.74053** |
 | RoBERTa-large  | 0.54708 | 0.98778 | 0.70416 |
 | RoBERTa(R_context)  | 0.67836 | 0.77333 | 0.72274 |
-| SqueezeBERT  | 0.61348 | 0.91 | 0.73289 |
-| XML-RoBERTa  | 0.61864 | 0.89222 | 0.73066 |
+| SqueezeBERT  | 0.61348 | 0.91 | **0.73289** |
+| XML-RoBERTa  | 0.61864 | 0.89222 | **0.73066** |
 
 RSUP: Remove stopwords and unnecessary puncuations
 
