@@ -58,6 +58,7 @@ https://mediaspace.illinois.edu/media/1_fjm9tq9y
 ## Results
 
 The following table records the best performance achieved (highest F1 score) by using each model:
+
 The score marked in bold are passing the baseline scores.
 
 | Model| Precision | Recall| F1 |
