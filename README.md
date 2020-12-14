@@ -84,9 +84,9 @@ R_context: Reverse Context
 Team Name: GFZ
 
 Team Member: <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bei Zhao - beizhao3 (Captain) <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ryan Fraser - rfraser3 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yiming Gu - yimingg7 <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bei Zhao - beizhao3 (Captain) beizhao3@illinois.edu <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ryan Fraser - rfraser3 rfraser3@illinois.edu <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yiming Gu - yimingg7 yimingg7@illinois.edu <br />
 
 ## Citation
 Tutorial: [Fine-Tuning BERT for Spam Classification](https://colab.research.google.com/github/prateekjoshi565/Fine-Tuning-BERT/blob/master/Fine_Tuning_BERT_for_Spam_Classification.ipynb#scrollTo=k1USGTntS3TS)
